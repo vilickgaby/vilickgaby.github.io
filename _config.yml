@@ -14,10 +14,16 @@ author: Gabriel Mbanda ©️
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Projects:
   About: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Music:
+    - Concerts
+    - Album-Projects
+    - Collabs
+  Contact:
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
