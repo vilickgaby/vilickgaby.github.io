@@ -17,7 +17,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# Gabriel Mbanda {#title}
 
 ## R-Shiny Consulting {#subtitle}
 
