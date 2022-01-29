@@ -30,10 +30,6 @@ You can also send me a message using this form:
     </div>
   </div>
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
-    <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" checked style="margin-top: 2px; margin-right: 4px;" />
-    <!--<label for="formspree-subscribe">Sign up to Shiny newsletter (unsubscribe at any time)</label>--!>
-  </div>
 
   <div class="g-recaptcha" data-sitekey="6Levj9waAAAAAKjnDWEPUfENn91YBRofBG7VxCUP" data-callback="enableSubmitContact"></div>
   <input type="hidden" name="_feedback.success.title" value="Thanks for reaching out to me i'll be in touch shortly!" />
