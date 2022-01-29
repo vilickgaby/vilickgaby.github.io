@@ -34,8 +34,6 @@ You can also send me a message using this form:
   <div class="g-recaptcha" data-sitekey="6Levj9waAAAAAKjnDWEPUfENn91YBRofBG7VxCUP" data-callback="enableSubmitContact"></div>
   <input type="hidden" name="_feedback.success.title" value="Thanks for reaching out to me i'll be in touch shortly!" />
   <input type="hidden" name="_email.from" value="Formspark Gabriel Mbanda" />
-  <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />
-
   <br/>
   <button id="submit_contact" type="submit" class="btn btn-lg btn-primary" disabled>Submit</button>
 </form>
