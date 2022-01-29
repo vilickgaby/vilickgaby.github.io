@@ -20,9 +20,9 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Music:
-    - Concerts
-    - Album-Projects
-    - Collabs
+    - Concerts:
+    - Album-Projects:
+    - Collabs:
   Contact:
   Author's home: "https://deanattali.com"
 
