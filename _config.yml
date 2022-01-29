@@ -13,22 +13,22 @@ author: Gabriel Mbanda ©️
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  Projects: "/#Projects"
-  About: "/#aboutus"
-  Music:
-    - Concerts:
-    - Album-Projects:
-    - Collabs
-  Presentation: "/#portfolio"
-  Contact: "/contact"
+#navbar-links:
+#  Projects: "/#Projects"
+#  About: "/#aboutus"
+#  Music:
+#    - Concerts:
+#    - Album-Projects:
+#    - Collabs
+#  Presentation: "/#portfolio"
+#  Contact: "/contact"
   
 #navbar-links:
-#  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
