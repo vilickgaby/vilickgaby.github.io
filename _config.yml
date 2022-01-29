@@ -23,7 +23,7 @@ navbar-links:
     - Concerts:
     - Album-Projects:
     - Collabs:
-  Contact:
+  Contact: "/contact"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
