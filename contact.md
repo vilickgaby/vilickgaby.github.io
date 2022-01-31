@@ -16,7 +16,7 @@ ext-js:
           headerToolbar: {
             left: 'prev,next today',
             center: 'title',
-            right: 'dayGridMonth,timeGridWeek,timeGridDay'
+            right: 'dayGridMonth,listWeek,listMonth'
           },
           views: {           
             listWeek: { buttonText: 'list week' },
