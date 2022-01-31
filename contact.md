@@ -13,7 +13,6 @@ ext-js:
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
           initialView: 'dayGridMonth'
-          schedulerLicenseKey: 'GPL-My-Project-Is-Open-Source'
         });
         calendar.render();
       });
