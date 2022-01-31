@@ -12,7 +12,13 @@ ext-js:
       document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
-          initialView: 'listWeek'
+          initialView: 'DayGridMonth',    
+
+          // customize the button names, otherwise they'd all just say "list"
+          views: {           
+            listWeek: { buttonText: 'list week' },
+            listMonth: { buttonText: 'list month' }
+          },
         });
         calendar.render();
       });
