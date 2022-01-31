@@ -25,6 +25,7 @@ For any inquiries, please email [info@gabriel-mbanda.de](mailto:info@gabriel-mba
 
 i'll make sure to answer you asap.
 
+<div id='calendar'></div>
 
 <div style="text-align: center;">
 <a href="https://calendly.com/vilickgaby/meeting" class="schedule-btn actionbtn">
