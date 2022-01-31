@@ -12,6 +12,7 @@ ext-js:
       document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
+          schedulerLicenseKey: 'GPL-My-Project-Is-Open-Source'        
           initialView: 'dayGridMonth'
         });
         calendar.render();
