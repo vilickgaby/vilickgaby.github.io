@@ -19,8 +19,8 @@ ext-js:
             right: 'dayGridMonth,listWeek,listMonth'
           },
           views: {           
-            listWeek: { buttonText: 'list week' },
-            listMonth: { buttonText: 'list month' }
+            listWeek: { buttonText: 'Week-List' },
+            listMonth: { buttonText: 'Month-List' }
           }
         });
         calendar.render();
