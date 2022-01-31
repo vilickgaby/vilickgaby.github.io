@@ -16,7 +16,7 @@ ext-js:
           views: {           
             listWeek: { buttonText: 'list week' },
             listMonth: { buttonText: 'list month' }
-          },
+          }
         });
         calendar.render();
       });
