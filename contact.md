@@ -3,9 +3,9 @@ layout: page
 title: Contact
 share-title: Gabriel Mbanda | Contact 
 ext-css:
-  - //cdn.jsdelivr.net/npm/fullcalendar-scheduler@5.10.1/main.css
+  - //cdn.jsdelivr.net/npm/fullcalendar-scheduler@5.9.0/main.css
 ext-js:
-  - //cdn.jsdelivr.net/npm/fullcalendar-scheduler@5.10.1/main.js
+  - //cdn.jsdelivr.net/npm/fullcalendar-scheduler@5.9.0/main.js
 ---
  <script>
 
